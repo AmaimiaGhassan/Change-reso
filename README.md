@@ -1,5 +1,5 @@
-VALORANT Screen Resolution Scripts
-
+**VALORANT Screen Resolution Scripts
+**
 These PowerShell scripts are designed to simplify your gaming setup for VALORANT players who want to avoid the hassle of adjusting screen resolutions manually. With these tools, you can easily set your screen resolution for an optimal gaming experience and restore it to its original settings when you're done. Features
 
 Automatic Resolution Adjustment: Quickly change your screen resolution with a single command.
